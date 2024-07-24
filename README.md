@@ -1,0 +1,1 @@
+# wp_spmar_map_plugin
